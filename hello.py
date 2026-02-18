@@ -1,1 +1,1 @@
-
+print("Aaa... que preguiçaa...")
